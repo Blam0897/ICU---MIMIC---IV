@@ -1,0 +1,9 @@
+*.csv
+*.parquet
+*.xlsx
+data/*
+!data/.gitkeep
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
